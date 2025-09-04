@@ -19,3 +19,9 @@ Atuar como desenvolvedor back-end, contribuindo para soluções eficientes e esc
 - Desenvolvimento de APIs REST com Spring Boot
 - Versionamento com Git
 - Integração com bancos de dados e JPA
+
+# Curiosidades
+
+- 🌱 Estou em transição de carreira para a área de tecnologia.
+- 📌 Comprometido com o aprendizado constante.
+- 🎯 Buscando a minha primeira oportunidade como desenvolvedor back-end.
